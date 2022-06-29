@@ -173,5 +173,3 @@ X.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2
 V.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_10_1.xml,a\4\a4ea79cc069e0208164e1f088376ab2e52f213c9
 ç
 ].idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_10_1.xml,b\d\bdb7e207182f04dcdf90e1acb2fec36173fc89e4
-Å
-Qcloud-provider-payment8001/src/main/java/com/lhr/cloud/entities/CommonResult.java,7\3\737da9ec7e4dcdaaeac4807344825a50079f1142
